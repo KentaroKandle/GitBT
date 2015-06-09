@@ -2,3 +2,5 @@
 
 First of all, this box needs proper date format. It's 9th June, 2015.
 Anyhow, this is just a test to make sure we CAN use GitHub from here.
+
+And now I'll try editing in web and re-importing locally.
