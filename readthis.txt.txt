@@ -1,0 +1,4 @@
+5:16 PM 6/9/2015
+
+First of all, this box needs proper date format. It's 9th June, 2015.
+Anyhow, this is just a test to make sure we CAN use GitHub from here.
